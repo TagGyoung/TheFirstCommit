@@ -1,2 +1,2 @@
-email : pus0162@naver.com
-gitID : pus0162
+email : pus0162@naver.com 
+gitID : tagyoung
